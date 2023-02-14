@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\futcsAPI.props" />
+</Project>
